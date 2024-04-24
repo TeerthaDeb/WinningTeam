@@ -1,0 +1,42 @@
+[
+  {
+    "AgencyName": "ShieldGuard Insurance Agency",
+    "Location": "123 Main Street, Cityville, State",
+    "Specialization": "Auto, Home, and Life Insurance",
+    "ContactPhone": "(555) 123-4567",
+    "ContactEmail": "info@shieldguard.com",
+    "Website": "www.shieldguardinsurance.com"
+  },
+  {
+    "AgencyName": "SafeHarbor Insurance Solutions",
+    "Location": "456 Oak Avenue, Townsville, State",
+    "Specialization": "Business, Health, and Liability Insurance",
+    "ContactPhone": "(555) 987-6543",
+    "ContactEmail": "inquiries@safeharborinsure.com",
+    "Website": "www.safeharborinsurancesolutions.com"
+  },
+  {
+    "AgencyName": "Everest Assurance Agency",
+    "Location": "789 Pine Street, Villageton, State",
+    "Specialization": "Property, Casualty, and Specialty Insurance",
+    "ContactPhone": "(555) 321-7890",
+    "ContactEmail": "info@everestassurance.com",
+    "Website": "www.everestassuranceagency.com"
+  },
+  {
+    "AgencyName": "Guardian Shield Insurance Group",
+    "Location": "101 Cedar Lane, Hamletville, State",
+    "Specialization": "Homeowners, Renters, and Flood Insurance",
+    "ContactPhone": "(555) 456-7890",
+    "ContactEmail": "contact@guardianshieldgroup.com",
+    "Website": "www.guardianshieldinsurance.com"
+  },
+  {
+    "AgencyName": "Unity Insurance Services",
+    "Location": "222 Elm Street, Suburbia, State",
+    "Specialization": "Auto, Health, and Pet Insurance",
+    "ContactPhone": "(555) 654-3210",
+    "ContactEmail": "support@unityinsuranceservices.com",
+    "Website": "www.unityinsuranceservices.com"
+  }
+]
